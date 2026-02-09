@@ -1,0 +1,67 @@
+{
+  // Editor settings
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.organizeImports": "never"
+  },
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+
+  // TypeScript settings
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.suggest.autoImports": true,
+
+  // File associations
+  "files.associations": {
+    "*.css": "tailwindcss"
+  },
+
+  // Tailwind CSS IntelliSense
+  "tailwindCSS.experimental.classRegex": [
+    ["cva\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"],
+    ["cn\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"]
+  ],
+  "tailwindCSS.includeLanguages": {
+    "typescript": "javascript",
+    "typescriptreact": "javascript"
+  },
+
+  // ESLint settings
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "eslint.workingDirectories": ["."],
+
+  // Prettier settings
+  "prettier.requireConfig": true,
+
+  // File exclusions
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "**/.next": true
+  },
+
+  // Search exclusions
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/.next": true,
+    "**/bun.lockb": true
+  },
+
+  // Emmet for JSX
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  }
+}

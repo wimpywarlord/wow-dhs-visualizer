@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+.next/
+out/
+dist/
+build/
+
+# Generated files
+src/types/generated.ts
+
+# Misc
+coverage/
+*.tsbuildinfo
+bun.lockb

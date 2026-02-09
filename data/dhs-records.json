@@ -1,0 +1,573 @@
+[
+  {
+    "id": "sahal-osman-shidane",
+    "name": "Sahal Osman Shidane",
+    "country": "SOMALIA",
+    "crimes": ["Criminal sexual conduct fourth degree of a victim 13 to 15 years old"],
+    "arrestLocation": {
+      "city": "Minneapolis",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/Sahal%20Osman%20Shidane.png?itok=piS2yE3-",
+    "profileUrl": "https://www.dhs.gov/news/2025/12/05/ice-continues-arresting-worst-worst-sanctuary-minneapolis-including-pedophiles-gang",
+    "scrapedAt": "2026-02-06T17:00:53.517Z"
+  },
+  {
+    "id": "meng-vang",
+    "name": "MENG VANG",
+    "country": "LAOS",
+    "crimes": [
+      "Assault",
+      "Aggravated Assault - Non-family-Weapon",
+      "Aggravated Assault - Weapon",
+      "Threat Terroristic State Offenses"
+    ],
+    "arrestLocation": {
+      "city": "Saint Paul",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-901b6d201b17887cb34819b3ce51ec81.jpg?itok=tveYbTxm",
+    "profileUrl": "https://www.dhs.gov/wow/meng-vang",
+    "scrapedAt": "2026-02-06T17:00:53.519Z"
+  },
+  {
+    "id": "rene-hernandez",
+    "name": "RENE HERNANDEZ",
+    "country": "EL SALVADOR",
+    "crimes": ["Sex Assault"],
+    "arrestLocation": {
+      "city": "Moose Lake",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-80c72b1d11c099baaa2e00c802aa8638.jpg?itok=OQbRTo1_",
+    "profileUrl": "https://www.dhs.gov/wow/rene-hernandez",
+    "scrapedAt": "2026-02-06T17:00:53.519Z"
+  },
+  {
+    "id": "jaime-tirado-hernandez",
+    "name": "JAIME TIRADO-HERNANDEZ",
+    "country": "MEXICO",
+    "crimes": ["Assault", "Homicide\n      \n        Gang Affiliation: Surenos (sur-13)"],
+    "arrestLocation": {
+      "city": "Lino Lakes",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-e683a76787d5a3f8ea1e20108417fbf3.jpg?itok=LsdKadGp",
+    "profileUrl": "https://www.dhs.gov/wow/jaime-tirado-hernandez",
+    "scrapedAt": "2026-02-06T17:00:53.520Z"
+  },
+  {
+    "id": "oudone-lothirath",
+    "name": "OUDONE LOTHIRATH",
+    "country": "LAOS",
+    "crimes": ["Assault", "Aggravated Assault - Gun"],
+    "arrestLocation": {
+      "city": "Minneapolis",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-e2cd4aefa25449763f110f61db4f1b1d.jpg?itok=su1vSBI0",
+    "profileUrl": "https://www.dhs.gov/wow/oudone-lothirath",
+    "scrapedAt": "2026-02-06T17:00:53.520Z"
+  },
+  {
+    "id": "mong-cheng",
+    "name": "MONG CHENG",
+    "country": "LAOS",
+    "crimes": [
+      "Homicide",
+      "Stolen Property",
+      "Stolen Vehicle",
+      "Assault",
+      "Homicide-Willful Kill-Non-family-Weapon\n      \n        Gang Affiliation: Oriental Boys"
+    ],
+    "arrestLocation": {
+      "city": "Minneapolis",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-a5591a6b7f16c4d5ce78e4329f5f120d.jpg?itok=JlRuH39C",
+    "profileUrl": "https://www.dhs.gov/wow/mong-cheng",
+    "scrapedAt": "2026-02-06T17:00:53.520Z"
+  },
+  {
+    "id": "phuc-trong-nguyen",
+    "name": "PHUC TRONG NGUYEN",
+    "country": "VIETNAM",
+    "crimes": [
+      "Carrying Prohibited Weapon",
+      "Possession Stolen Vehicle",
+      "Sex Assault",
+      "Possession Of Weapon",
+      "Rape"
+    ],
+    "arrestLocation": {
+      "city": "Minneapolis",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-a74428e38ece28260728770268d7f527.jpg?itok=lvTtivc1",
+    "profileUrl": "https://www.dhs.gov/wow/phuc-trong-nguyen",
+    "scrapedAt": "2026-02-06T17:00:53.521Z"
+  },
+  {
+    "id": "francisco-jorge-salgado",
+    "name": "FRANCISCO JORGE-SALGADO",
+    "country": "CUBA",
+    "crimes": [
+      "Amphetamine - Sell",
+      "Domestic Violence",
+      "Dangerous Drugs",
+      "Cocaine - Possession",
+      "Possession Of Weapon",
+      "Probation Violation",
+      "Assault"
+    ],
+    "arrestLocation": {
+      "city": "Minneapolis",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-09c9f9756865a4e458bf3713b560b19d.jpg?itok=JaRLUHMn",
+    "profileUrl": "https://www.dhs.gov/wow/francisco-jorge-salgado",
+    "scrapedAt": "2026-02-06T17:00:53.522Z"
+  },
+  {
+    "id": "pedro-ornelas",
+    "name": "PEDRO ORNELAS",
+    "country": "MEXICO",
+    "crimes": ["Sex Assault", "Rape"],
+    "arrestLocation": {
+      "city": "Minneapolis",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-d85196916d5f8cdc5bd73e3df0b4c6da.jpg?itok=K0q28ZiG",
+    "profileUrl": "https://www.dhs.gov/wow/pedro-ornelas",
+    "scrapedAt": "2026-02-06T17:00:53.522Z"
+  },
+  {
+    "id": "mariama-kanu",
+    "name": "MARIAMA KANU",
+    "country": "SIERRA LEONE",
+    "crimes": ["Homicide", "Burglary"],
+    "arrestLocation": {
+      "city": "Minneapolis",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-c853e0ed105ee3c5fc41e7dde5d41c05.jpg?itok=t2RF6zAe",
+    "profileUrl": "https://www.dhs.gov/wow/mariama-kanu",
+    "scrapedAt": "2026-02-06T17:00:53.522Z"
+  },
+  {
+    "id": "abdulkadir-sharif-abdi",
+    "name": "Abdulkadir Sharif Abdi",
+    "country": "SOMALIA",
+    "crimes": [
+      "Fraud",
+      "Probation violations",
+      "Receiving stolen property",
+      "Vehicle Theft",
+      "Receiving a stolen vehicle\n      \n        Gang Affiliation: Vice Lord Nation"
+    ],
+    "arrestLocation": {
+      "city": "Minneapolis",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/Abdulkadir%20Sharif%20Abdi.png?itok=-yHHvYi5",
+    "profileUrl": "https://www.dhs.gov/news/2025/12/04/ice-arrests-worst-worst-criminal-illegal-aliens-during-operation-metro-surge",
+    "scrapedAt": "2026-02-06T17:00:53.522Z"
+  },
+  {
+    "id": "abdi-gelle-mohamed",
+    "name": "Abdi Gelle Mohamed",
+    "country": "SOMALIA",
+    "crimes": ["Sexual abuse of a minor"],
+    "arrestLocation": {
+      "city": "Minneapolis",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/Abdi%20Gelle%20Mohamed.png?itok=ToPUONC3",
+    "profileUrl": "https://www.dhs.gov/news/2025/12/05/ice-continues-arresting-worst-worst-sanctuary-minneapolis-including-pedophiles-gang",
+    "scrapedAt": "2026-02-06T17:00:53.522Z"
+  },
+  {
+    "id": "asirullah-khalid-khan",
+    "name": "ASIRULLAH KHALID-KHAN",
+    "country": "AFGHANISTAN",
+    "crimes": ["Arrested for: Kidnapping", "Rape"],
+    "arrestLocation": {
+      "city": "Austin",
+      "state": "Texas"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-8c90ba01f88727762bcd4219e1bc3287.jpg?itok=gfEWIQgW",
+    "profileUrl": "https://www.dhs.gov/news/2025/12/04/ice-arrests-criminal-illegal-aliens-afghanistan-released-our-country-biden",
+    "scrapedAt": "2026-02-06T17:00:54.625Z"
+  },
+  {
+    "id": "oscar-chan",
+    "name": "OSCAR CHAN",
+    "country": "MEXICO",
+    "crimes": [
+      "Rape With Weapon",
+      "Robbery",
+      "Kidnapping",
+      "Kidnap Adult To Sexually Assault\n      \n        Gang Affiliation: Surenos (sur-13)"
+    ],
+    "arrestLocation": {
+      "city": "Reno",
+      "state": "Nevada"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-38561c772e0326d57dc510a73b5208ee.jpg?itok=nQjylK9k",
+    "profileUrl": "https://www.dhs.gov/news/2025/12/18/dhs-offers-even-greater-transparency-adds-another-5000-criminal-illegal-aliens",
+    "scrapedAt": "2026-02-06T17:00:54.625Z"
+  },
+  {
+    "id": "yohenry-josue-betancourt-brito",
+    "name": "YOHENRY JOSUE BETANCOURT BRITO",
+    "country": "VENEZUELA",
+    "crimes": ["Assault", "Larceny\n      \n        Gang Affiliation: Tren de Aragua"],
+    "arrestLocation": {
+      "city": "New York",
+      "state": "New York"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-dd9e3a202189dfa49d8f7aa84c914b80.jpg?itok=ebE6RMlb",
+    "profileUrl": "https://www.dhs.gov/news/2025/11/27/americans-living-sanctuary-states-are-thankful-our-law-enforcement-making-their",
+    "scrapedAt": "2026-02-06T17:00:54.625Z"
+  },
+  {
+    "id": "ever-rodriguez-mendoza",
+    "name": "EVER RODRIGUEZ-MENDOZA",
+    "country": "EL SALVADOR",
+    "crimes": [
+      "Assault",
+      "Aggravated Assault - Police Officer-Strongarm",
+      "Robbery - Residence-Weapon",
+      "Possession Of Weapon\n      \n        Gang Affiliation: M.S.13"
+    ],
+    "arrestLocation": {
+      "city": "Malvern",
+      "state": "Arkansas"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-9f2a1ce7fdeabe585bcf5b746f348407.jpg?itok=58Sr8gzh",
+    "profileUrl": "https://www.dhs.gov/wow/ever-rodriguez-mendoza",
+    "scrapedAt": "2026-02-06T17:00:54.625Z"
+  },
+  {
+    "id": "abdirashid-ibrahim",
+    "name": "ABDIRASHID IBRAHIM",
+    "country": "SOMALIA",
+    "crimes": [
+      "Domestic Violence",
+      "Possession Of Weapon",
+      "Burglary - Forced Entry-Residence",
+      "Homicide"
+    ],
+    "arrestLocation": {
+      "city": "Nashville",
+      "state": "Tennessee"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-27c3f9bd53851066592d4167ddf87602.jpg?itok=m7l0PYZo",
+    "profileUrl": "https://www.dhs.gov/wow/abdirashid-ibrahim",
+    "scrapedAt": "2026-02-06T17:00:54.625Z"
+  },
+  {
+    "id": "juan-perez-barahona",
+    "name": "JUAN PEREZ-BARAHONA",
+    "country": "HONDURAS",
+    "crimes": ["Sex Assault", "Neglect Child", "Molestation of Minor"],
+    "arrestLocation": {
+      "city": "Brooklyn",
+      "state": "Connecticut"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-7aea2fa286eea108d967d8660316b91e.jpg?itok=hm6DeM-1",
+    "profileUrl": "https://www.dhs.gov/wow/juan-perez-barahona-0",
+    "scrapedAt": "2026-02-06T17:00:54.626Z"
+  },
+  {
+    "id": "nelson-ricardo-suarez",
+    "name": "NELSON RICARDO SUAREZ",
+    "country": "CUBA",
+    "crimes": [
+      "Battery",
+      "Sex Offense Against Child-Fondling",
+      "Assault",
+      "Burglary - Forced Entry-Residence"
+    ],
+    "arrestLocation": {
+      "city": "Miramar",
+      "state": "Florida"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-439d6abe110b5482469b2123f20a1834.jpg?itok=11mjKvrq",
+    "profileUrl": "https://www.dhs.gov/wow/nelson-ricardo-suarez",
+    "scrapedAt": "2026-02-06T17:00:54.626Z"
+  },
+  {
+    "id": "ghinh-nguyen",
+    "name": "GHINH NGUYEN",
+    "country": "VIETNAM",
+    "crimes": [
+      "Rape With Weapon",
+      "Aggravated Assault - Non-family-Weapon",
+      "Sex Assault",
+      "Kidnapping",
+      "Firing Weapon",
+      "Aggravated Assault - Family-Gun",
+      "Weapon Offense",
+      "Aggravated Assault - Family-Weapon",
+      "Intimidation",
+      "Possession Of Weapon"
+    ],
+    "arrestLocation": {
+      "city": "New Bedford",
+      "state": "Massachusetts"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-cd9af6d9cc12908df22d1c759f8de26a.jpg?itok=g5-1IiZD",
+    "profileUrl": "https://www.dhs.gov/wow/ghinh-nguyen",
+    "scrapedAt": "2026-02-06T17:00:54.626Z"
+  },
+  {
+    "id": "zakariya-abdi",
+    "name": "ZAKARIYA ABDI",
+    "country": "SOMALIA",
+    "crimes": ["Homicide", "Larceny"],
+    "arrestLocation": {
+      "city": "Bayport",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-2695177366a34e64f04bca346165f246.jpg?itok=SkSg6DkP",
+    "profileUrl": "https://www.dhs.gov/wow/zakariya-abdi",
+    "scrapedAt": "2026-02-06T17:00:54.626Z"
+  },
+  {
+    "id": "julio-lara-avila",
+    "name": "JULIO LARA-AVILA",
+    "country": "MEXICO",
+    "crimes": [
+      "Battery",
+      "Threat Terroristic State Offenses",
+      "False Imprisonment",
+      "Simple Assault",
+      "Cruelty Toward Child"
+    ],
+    "arrestLocation": {
+      "city": "Pollock",
+      "state": "Louisiana"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-b8287eb00aee05d29095fda5e9ce1d61.jpg?itok=AvvoA3j-",
+    "profileUrl": "https://www.dhs.gov/wow/julio-lara-avila",
+    "scrapedAt": "2026-02-06T17:00:54.626Z"
+  },
+  {
+    "id": "carlos-merlos-ortiz",
+    "name": "CARLOS MERLOS ORTIZ",
+    "country": "EL SALVADOR",
+    "crimes": [
+      "Fraud - Impersonating",
+      "Rape - Disabled",
+      "Illegal Re-Entry (INA SEC.101(a)(43)(O)",
+      "8USC1326 only)",
+      "Rape\n      \n        Gang Affiliation: Inland Empire 13"
+    ],
+    "arrestLocation": {
+      "city": "Richland",
+      "state": "Washington"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-adae45f937e45ef896753975d7d321e5.jpg?itok=z4JSRchC",
+    "profileUrl": "https://www.dhs.gov/wow/carlos-merlos-ortiz",
+    "scrapedAt": "2026-02-06T17:00:54.626Z"
+  },
+  {
+    "id": "yee-shae",
+    "name": "YEE SHAE",
+    "country": "BURMA",
+    "crimes": ["Sex Offense Against Child-Fondling", "Rape"],
+    "arrestLocation": {
+      "city": "Lakeville",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-295d3c097615ae3be94b9669edc31c08.jpg?itok=5qBZL3dr",
+    "profileUrl": "https://www.dhs.gov/wow/yee-shae",
+    "scrapedAt": "2026-02-06T17:00:54.627Z"
+  },
+  {
+    "id": "yeng-pha",
+    "name": "YENG PHA",
+    "country": "LAOS",
+    "crimes": ["Sex Assault - Sodomy-Girl-Strongarm"],
+    "arrestLocation": {
+      "city": "Minneapolis",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-670ea1172e7d4e0c78be92e3fb2c7938.jpg?itok=Dt2P3smN",
+    "profileUrl": "https://www.dhs.gov/wow/yeng-pha",
+    "scrapedAt": "2026-02-06T17:00:55.754Z"
+  },
+  {
+    "id": "yeng-vang",
+    "name": "YENG VANG",
+    "country": "LAOS",
+    "crimes": [
+      "Rape - Strongarm",
+      "Sex Assault",
+      "Stolen Vehicle",
+      "Sex Assault - Sodomy-Girl-Strongarm",
+      "Burglary\n      \n        Gang Affiliation: Tiny Boys"
+    ],
+    "arrestLocation": {
+      "city": "Saint Paul",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-1854da11e5592150723397f89a2da1f4.jpg?itok=cX-HXiwL",
+    "profileUrl": "https://www.dhs.gov/wow/yeng-vang",
+    "scrapedAt": "2026-02-06T17:00:55.754Z"
+  },
+  {
+    "id": "yia-xiong",
+    "name": "YIA XIONG",
+    "country": "LAOS",
+    "crimes": ["Sex Offense - Disabled"],
+    "arrestLocation": {
+      "city": "Saint Paul",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-1b93bc51eb902140912355ab3ef302e0.jpg?itok=g3G4f96J",
+    "profileUrl": "https://www.dhs.gov/wow/yia-xiong",
+    "scrapedAt": "2026-02-06T17:00:55.754Z"
+  },
+  {
+    "id": "yunior-alvarez-vera",
+    "name": "YUNIOR ALVAREZ VERA",
+    "country": "CUBA",
+    "crimes": ["Cocaine - Sell", "Dangerous Drugs\n      \n        Gang Affiliation: Paisas"],
+    "arrestLocation": {
+      "city": "Sandstone",
+      "state": "Minnesota"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/wow-mugshot-9aac60153a01a8839286f97b99086ea8.jpg?itok=qi4ZXHbW",
+    "profileUrl": "https://www.dhs.gov/wow/yunior-alvarez-vera",
+    "scrapedAt": "2026-02-06T17:00:55.754Z"
+  },
+  {
+    "id": "anibal-giovanni-alvarenga-perdomo",
+    "name": "Anibal Giovanni Alvarenga Perdomo",
+    "country": "GUATEMALA",
+    "crimes": ["Driving under the influence of alcohol", "Soliciting for prostitution"],
+    "arrestLocation": {
+      "city": "Minnesota",
+      "state": ""
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/Anibal%20Giovanni%20Alvarenga%20Perdomo.png?itok=q23pjoZH",
+    "profileUrl": "https://www.dhs.gov/wow/anibal-giovanni-alvarenga-perdomo",
+    "scrapedAt": "2026-02-06T17:00:55.754Z"
+  },
+  {
+    "id": "ivan-rodriguez-lopez",
+    "name": "Ivan Rodriguez-Lopez",
+    "country": "CUBA",
+    "crimes": [
+      "Assault",
+      "Burglary",
+      "Driving under the influence",
+      "Possession of methamphetamine",
+      "Theft",
+      "Neglect or endangerment of a child"
+    ],
+    "arrestLocation": {
+      "city": "Minnesota",
+      "state": ""
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/Ivan%20Rodriguez-Lopez.png?itok=-A8u-uEa",
+    "profileUrl": "https://www.dhs.gov/wow/ivan-rodriguez-lopez",
+    "scrapedAt": "2026-02-06T17:00:55.754Z"
+  },
+  {
+    "id": "lue-moua",
+    "name": "Lue Moua",
+    "country": "LAOS",
+    "crimes": [
+      "Possession of burglary tools",
+      "Receiving stolen property",
+      "Vehicle Theft",
+      "Concealed weapon in a vehicle"
+    ],
+    "arrestLocation": {
+      "city": "Minnesota",
+      "state": ""
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/Lue%20Moua.png?itok=wTsNUscN",
+    "profileUrl": "https://www.dhs.gov/wow/lue-moua",
+    "scrapedAt": "2026-02-06T17:00:55.754Z"
+  },
+  {
+    "id": "mohamed-aways-ali",
+    "name": "Mohamed Aways Ali",
+    "country": "SOMALIA",
+    "crimes": ["Larceny", "Obstructing police", "Receiving a stolen vehicle", "Stolen Vehicle"],
+    "arrestLocation": {
+      "city": "Minnesota",
+      "state": ""
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/Mohamed%20Aways%20Ali.png?itok=shK6OPWQ",
+    "profileUrl": "https://www.dhs.gov/wow/mohamed-aways-ali",
+    "scrapedAt": "2026-02-06T17:00:55.755Z"
+  },
+  {
+    "id": "chuong-dinh-ho",
+    "name": "Chuong Dinh Ho",
+    "country": "VIETNAM",
+    "crimes": ["Aggravated assault with a firearm"],
+    "arrestLocation": {
+      "city": "Minnesota",
+      "state": ""
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/Chuong%20Dinh%20Ho.png?itok=zzqvlnnv",
+    "profileUrl": "https://www.dhs.gov/wow/chuong-dinh-ho",
+    "scrapedAt": "2026-02-06T17:00:55.755Z"
+  },
+  {
+    "id": "nelbert-joseph",
+    "name": "Nelbert Joseph",
+    "country": "ST. LUCIA",
+    "crimes": [
+      "Forgery",
+      "Fraud - Insufficient Funds Check",
+      "Fraud - Swindle",
+      "Larceny",
+      "Stolen Vehicle"
+    ],
+    "arrestLocation": {
+      "city": "Minnesota",
+      "state": ""
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/Nelbert%20Joseph.png?itok=ns-NI06P",
+    "profileUrl": "https://www.dhs.gov/wow/nelbert-joseph",
+    "scrapedAt": "2026-02-06T17:00:55.755Z"
+  },
+  {
+    "id": "carlos-antonio-flores-miguaael",
+    "name": "Carlos Antonio Flores-Miguel",
+    "country": "EL SALVADOR",
+    "crimes": [
+      "Arrested for: Illegal reentry",
+      "Rape - Strongarm",
+      "Resisting an officer",
+      "Robbery\n      \n        Gang Affiliation: M.S.13"
+    ],
+    "arrestLocation": {
+      "city": "Minnesota",
+      "state": ""
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/Carlos%20Antonio%20Flores-Miguel.png?itok=r_S9sGvn",
+    "profileUrl": "https://www.dhs.gov/wow/carlos-antonio-flores-miguel",
+    "scrapedAt": "2026-02-06T17:00:55.755Z"
+  },
+  {
+    "id": "julio-noyola-campos",
+    "name": "Julio Noyola-Campos",
+    "country": "MEXICO",
+    "crimes": ["Trafficking a schedule I controlled substance"],
+    "arrestLocation": {
+      "city": "Wake County",
+      "state": "North Carolina"
+    },
+    "imageUrl": "https://www.dhs.gov/sites/default/files/styles/mugshot/public/wow_mugshots/Julio%20Noyola-Campos.png?itok=zqP9nRCh",
+    "profileUrl": "https://www.dhs.gov/wow/julio-noyola-campos",
+    "scrapedAt": "2026-02-06T17:00:55.755Z"
+  }
+]
