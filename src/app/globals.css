@@ -61,23 +61,20 @@
   }
 }
 
-/* Custom scrollbar for dark mode */
+/* Hide scrollbars */
+html,
+body {
+  overflow: hidden;
+  height: 100%;
+}
+
 ::-webkit-scrollbar {
-  width: 8px;
-  height: 8px;
+  display: none;
 }
 
-::-webkit-scrollbar-track {
-  background: hsl(var(--background));
-}
-
-::-webkit-scrollbar-thumb {
-  background: hsl(var(--border));
-  border-radius: 4px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: hsl(var(--muted-foreground));
+* {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
 }
 
 /* Smooth transitions */
